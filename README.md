@@ -14,7 +14,8 @@ This project is a web application for managing, analyzing, and distributing surp
 - Load.ipynb          # Connecting MySQL to python
 - queries.py          # Running the queries in python
 - app.py              # Streamlit app code
-- FOOD_WASTE          # MySQL Script for all 13 queries 
+- FOOD_WASTE          # MySQL Script for all 13 queries
+- Dashboard.pbix      # Power BI dashboard
 
 ## Features
 
