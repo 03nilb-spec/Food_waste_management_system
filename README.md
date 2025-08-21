@@ -9,6 +9,13 @@ This project is a web application for managing, analyzing, and distributing surp
 - CRUD operations to manage food listings and claims in real-time.
 - Contact details for providers and receivers to facilitate coordination.
 
+## Files 
+- Preparation.ipynb   # Cleaning of data
+- Load.ipynb          # Connecting MySQL to python
+- queries.py          # Running the queries in python
+- app.py              # Streamlit app code
+- FOOD_WASTE          # MySQL Script for all 13 queries 
+
 ## Features
 
 **Data Analysis**
